@@ -1,0 +1,11 @@
+#!/bin/bash
+
+cd /home/jovyan
+#======{[ GIT INIT ]}=======#
+git config --global user.email "peter@never.lan"
+git config --global user.name "Peter Pan"
+git config --global push.default simple
+#======{[ NODE INIT ]}======#
+npm i -g ganache-cli
+npm i -g truffle
+npm i -g solc
