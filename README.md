@@ -5,6 +5,10 @@
 ethereum test projects
 
 ## Dependencies:
+https://etherscan.io/
+
+https://eth.wiki/json-rpc/API
+
 https://www.trufflesuite.com/docs
 
 https://github.com/trufflesuite/truffle
