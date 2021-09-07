@@ -7,6 +7,7 @@ ethereum test projects
 ## Dependencies:
 https://www.trufflesuite.com/docs
 https://github.com/trufflesuite/truffle
+https://github.com/vasa-develop/ethereum-in-depth?ref=hackernoon.com
 
 ## ETH Units
 
